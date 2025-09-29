@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "little-lemon",
+=======
+  "name": "my-app",
+>>>>>>> 1acd457d0768d3a587df9a33c89b0ce550a4d17c
   "version": "0.1.0",
   "private": true,
   "dependencies": {
